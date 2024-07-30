@@ -1,0 +1,14 @@
+D:\asp.net sec\Task(06)\SearchTask2\bin\Debug\net8.0\SearchTask2.exe
+D:\asp.net sec\Task(06)\SearchTask2\bin\Debug\net8.0\SearchTask2.deps.json
+D:\asp.net sec\Task(06)\SearchTask2\bin\Debug\net8.0\SearchTask2.runtimeconfig.json
+D:\asp.net sec\Task(06)\SearchTask2\bin\Debug\net8.0\SearchTask2.dll
+D:\asp.net sec\Task(06)\SearchTask2\bin\Debug\net8.0\SearchTask2.pdb
+D:\asp.net sec\Task(06)\SearchTask2\obj\Debug\net8.0\SearchTask2.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net sec\Task(06)\SearchTask2\obj\Debug\net8.0\SearchTask2.AssemblyInfoInputs.cache
+D:\asp.net sec\Task(06)\SearchTask2\obj\Debug\net8.0\SearchTask2.AssemblyInfo.cs
+D:\asp.net sec\Task(06)\SearchTask2\obj\Debug\net8.0\SearchTask2.csproj.CoreCompileInputs.cache
+D:\asp.net sec\Task(06)\SearchTask2\obj\Debug\net8.0\SearchTask2.dll
+D:\asp.net sec\Task(06)\SearchTask2\obj\Debug\net8.0\refint\SearchTask2.dll
+D:\asp.net sec\Task(06)\SearchTask2\obj\Debug\net8.0\SearchTask2.pdb
+D:\asp.net sec\Task(06)\SearchTask2\obj\Debug\net8.0\SearchTask2.genruntimeconfig.cache
+D:\asp.net sec\Task(06)\SearchTask2\obj\Debug\net8.0\ref\SearchTask2.dll

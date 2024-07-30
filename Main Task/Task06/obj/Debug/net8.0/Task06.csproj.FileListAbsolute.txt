@@ -1,0 +1,15 @@
+D:\asp.net sec\Task(06)\Task06\bin\Debug\net8.0\Task06.exe
+D:\asp.net sec\Task(06)\Task06\bin\Debug\net8.0\Task06.deps.json
+D:\asp.net sec\Task(06)\Task06\bin\Debug\net8.0\Task06.runtimeconfig.json
+D:\asp.net sec\Task(06)\Task06\bin\Debug\net8.0\Task06.dll
+D:\asp.net sec\Task(06)\Task06\bin\Debug\net8.0\Task06.pdb
+D:\asp.net sec\Task(06)\Task06\obj\Debug\net8.0\Task06.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net sec\Task(06)\Task06\obj\Debug\net8.0\Task06.AssemblyInfoInputs.cache
+D:\asp.net sec\Task(06)\Task06\obj\Debug\net8.0\Task06.AssemblyInfo.cs
+D:\asp.net sec\Task(06)\Task06\obj\Debug\net8.0\Task06.csproj.CoreCompileInputs.cache
+D:\asp.net sec\Task(06)\Task06\obj\Debug\net8.0\Task06.dll
+D:\asp.net sec\Task(06)\Task06\obj\Debug\net8.0\refint\Task06.dll
+D:\asp.net sec\Task(06)\Task06\obj\Debug\net8.0\Task06.pdb
+D:\asp.net sec\Task(06)\Task06\obj\Debug\net8.0\Task06.genruntimeconfig.cache
+D:\asp.net sec\Task(06)\Task06\obj\Debug\net8.0\ref\Task06.dll
+D:\asp.net sec\Task(06)\Task06\obj\Debug\net8.0\Task06.sourcelink.json

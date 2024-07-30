@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task06", "Task06\Task06.csproj", "{519F3BA7-F0B5-4DA0-BDF9-14EC4B0703CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchTask", "SearchTask\SearchTask.csproj", "{A28A1451-F0BC-4F40-8770-EF2AF3DC8BAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchTask2", "SearchTask2\SearchTask2.csproj", "{13F24A3D-30BD-4467-9B10-73DE34F1AABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{519F3BA7-F0B5-4DA0-BDF9-14EC4B0703CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{519F3BA7-F0B5-4DA0-BDF9-14EC4B0703CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{519F3BA7-F0B5-4DA0-BDF9-14EC4B0703CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{519F3BA7-F0B5-4DA0-BDF9-14EC4B0703CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A28A1451-F0BC-4F40-8770-EF2AF3DC8BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A28A1451-F0BC-4F40-8770-EF2AF3DC8BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A28A1451-F0BC-4F40-8770-EF2AF3DC8BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A28A1451-F0BC-4F40-8770-EF2AF3DC8BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F24A3D-30BD-4467-9B10-73DE34F1AABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F24A3D-30BD-4467-9B10-73DE34F1AABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F24A3D-30BD-4467-9B10-73DE34F1AABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F24A3D-30BD-4467-9B10-73DE34F1AABC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96AB5BC1-0782-48FC-BDCE-3D72E1CB566F}
+	EndGlobalSection
+EndGlobal
